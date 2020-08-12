@@ -15,8 +15,7 @@ num1 = 0
 
 
 # End 插入结束
-print(id)
-print(secret)
+
 api_list = [
     r'https://graph.microsoft.com/v1.0/me/drive/root',
     r'https://graph.microsoft.com/v1.0/me/drive',
